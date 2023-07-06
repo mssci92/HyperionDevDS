@@ -24,4 +24,5 @@ Semantic Similarity: (https://github.com/mssci92/finalCapstone/blob/main/watch_n
 ### Usage: 
 The NLP files are not programmes,they are research tasks on NLP applications. Semantic Similarity is a programme which creates a function to which movies a user would watch next if they have watched Planet Hulk based on the word vector similarity of the description of movies. Simple linear regression is a programme building a predictive model to forecast insurance charges based on data. I applied Simple linear regression, a machine learning algorithm, to create accurate insurance charge predictions based on a customer's age, and visualised the results
 
-###Credits: This was made by Sabrina Ali
+### Credits: 
+This was made by Sabrina Ali
