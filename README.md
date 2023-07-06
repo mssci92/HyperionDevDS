@@ -2,7 +2,7 @@
 ## Project Name: Capstone project - NLP
 
 ## Description: 
-PDF file which cases with the type of NLP application. Another PDF which details how IBM uses a NLP technology called Watson in the medical field. Semantic Regression model for predicting insurance charges and Semantic Similarity model for making movie recommendations based on text description similarity.
+NLP pdf documents research on how different NLP models can be used in various industries. Semantic Regression model for predicting insurance charges and Semantic Similarity model for making movie recommendations based on text description similarity.
 
 ### Table of Contents:
 NLP 1:  https://github.com/mssci92/finalCapstone/blob/main/nlp_1.pdf
