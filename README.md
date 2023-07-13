@@ -9,8 +9,8 @@ I have compiled a diverse collection of projects that I have completed while und
 3. Holiday cost calculator: https://github.com/mssci92/finalCapstone/blob/main/holiday.py
 4. Minesweeper: https://github.com/mssci92/finalCapstone/blob/main/minesweeper.py
 6. Data Visualisation: https://github.com/mssci92/finalCapstone/blob/main/data_viz.pdf
-   Sources: https://github.com/mssci92/HyperionDevDS/blob/main/balance.txt https://www.icis.com/explore/resources/news/2020/03/26/10487220/us-ipa-prices-rise-on-unprecedented-hand-sanitizer-demand/
-8. Datasets: https://github.com/mssci92/finalCapstone/blob/main/Datasets%20Compulsory%20Task.ipynb https://github.com/holtzy/data_to_viz/blob/master/Example_dataset/9_OneNumSevCatSubgroupOneObs.csv
+Sources: https://github.com/holtzy/data_to_viz/blob/master/Example_dataset/9_OneNumSevCatSubgroupOneObs.csv https://www.icis.com/explore/resources/news/2020/03/26/10487220/us-ipa-prices-rise-on-unprecedented-hand-sanitizer-demand/
+8. Datasets: https://github.com/mssci92/finalCapstone/blob/main/Datasets%20Compulsory%20Task.ipynb https://github.com/mssci92/HyperionDevDS/blob/main/balance.txt
 9. Report: https://github.com/mssci92/finalCapstone/blob/main/Report.ipynb https://github.com/mssci92/HyperionDevDS/blob/main/balance.txt
 10. ML: https://github.com/mssci92/finalCapstone/blob/main/Intro_to_ML.pdf
 11. Simple linear regression: https://github.com/mssci92/finalCapstone/blob/main/Simple%2Blinear%2Bregression%2Binsurance.ipynb https://github.com/mssci92/HyperionDevDS/blob/main/insurance.csv
