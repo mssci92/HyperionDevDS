@@ -64,11 +64,11 @@ I have compiled a diverse collection of projects that I have completed while und
 3. The Holiday program calculates the cost of flights, hotels, and car hire and total costs for four destinations (Paris, Cancun, New York, Tokoyo). Please note that these values have been made up for practice purposes.
 4. The Minesweeper program identifies the position of all adjacent "#" symbols and converts the "-" symbols to a count value representing the number of adjacent "#" symbols that have been located.
 5. The PDF files are not programmes. They are research tasks on NLP and ML applications and Data Visualisation analysis.
-6. The Datasets program retrieves and explains information from the "balance.txt" file using the pandas library.
-7. The Report program which produces a report of information from the "balance.txt" file using the pandas library.
-8. The Simple Linear Regression program uses an algorithm to create accurate insurance charge predictions based on a customer's age, and visualised the results from the "insurance.csv" file using the numpy, pandas, matplotlib.pyplot libraries and sklean.linear_model class from the skilearn module.
-9. The Garden program identifies the tokens and entities found in the Garden sentences using the spaCy library.
-10. Semantic Similarity program, which creates a function to which movies a user would watch next if they have watched Planet Hulk based on the word vector similarity of the description of movies from the "movies.txt" file using the spaCy library.
+6. The Datasets program retrieves and explains information from the "balance.txt" file using the Pandas library.
+7. The Report program produces a report of information from the "balance.txt" file using the Pandas library.
+8. The Simple Linear Regression program uses an algorithm to create accurate insurance charge predictions based on a customer's age and visualised the results from the "insurance.csv" file using the NumPy, Pandas, Matplotlib.pyplot libraries and Skilearn module.
+9. The Garden program identifies the tokens and entities found in the Garden sentences using the SpaCy library.
+10. Semantic Similarity program, which creates a function to which movies a user would watch next if they have watched Planet Hulk based on the word vector similarity of the description of movies from the "movies.txt" file using the SpaCy library.
 
 ### Credits: 
 These programs were created and produced by Sabrina Ali.
