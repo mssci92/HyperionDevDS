@@ -1,5 +1,4 @@
-# finalCapstone
-## Projects
+# Projects
 
 ## Description: 
 I have compiled a diverse collection of projects that I have completed while undertaking during my HyperionDev Data Science Bootcamp, leveraging the power of Python and Jupyter Notebook. These projects exhibit my expertise and proficiency in various aspects of data science, covering various topics and techniques.
