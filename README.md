@@ -66,9 +66,9 @@ I have compiled a diverse collection of projects that I have completed while und
 5. The PDF files are not programmes. They are research tasks on NLP and ML applications and Data Visualisation analysis.
 6. The Datasets program retrieves and explains information from the "balance.txt" file using the pandas library.
 7. The Report program which produces a report of information from the "balance.txt" file using the pandas library.
-8. algorithm, to create accurate insurance charge predictions based on a customer's age, and visualised the results using the numpy, pandas, matplotlib.pyplot libraries and sklean.linear_model class from the skilearn module.
+8. The Simple Linear Regression program uses an algorithm, to create accurate insurance charge predictions based on a customer's age, and visualised the results using the numpy, pandas, matplotlib.pyplot libraries and sklean.linear_model class from the skilearn module.
 9. The Garden program program identifies the tokens and entities found in the Garden sentences.
-10. Semantic Similarity program which creates a function to which movies a user would watch next if they have watched Planet Hulk based on the word vector similarity of the description of movies.
+10. Semantic Similarity program, which creates a function to which movies a user would watch next if they have watched Planet Hulk based on the word vector similarity of the description of movies.
 
 ### Credits: 
 These programs were created and produced by Sabrina Ali.
