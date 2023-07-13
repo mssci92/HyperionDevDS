@@ -26,7 +26,7 @@ I have compiled a diverse collection of projects that I have completed while und
 
 
 ### Installation: To run this project locally, follow these steps:
-1. Clone the repository to your local machine using the following command: https://github.com/mssci92/finalCapstone
+1. Clone the repository to your local machine using the following command: https://github.com/mssci92/HyperionDevDS
 2. Navigate to the project directory: cd HyperionDevDS
 3. Open your web browser and paste the file URL you want to access or download.
 4. For PDF files, the file will open directly in your browser, and you can read or download it from there. You can use the browser's built-in PDF viewer or choose to download the file to your local machine.
