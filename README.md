@@ -35,7 +35,7 @@ I have compiled a diverse collection of projects that I have completed while und
 7. If you don't have Jupyter Notebook installed, you can install it by following the instructions provided on the official Jupyter website: https://jupyter.org/install. Once installed, you can save the notebook file from GitHub and open it in Jupyter Notebook to run and interact with the code.
 8. To run the Python script files, make sure you have Python installed on your machine. You can download Python from the official Python website https://www.python.org/downloads/. Once installed, navigate to the location where you saved the Python script files and run it.
 
-### Additional installation guidance: To run specific programmes which requires a text file/cvs file(s) or libraries installed
+### Additional installation guidance: To run specific programmes which require a Text or CVS file(s) or libraries installed
 1. The data programs in Python/Juypter Notebook will require you to install libraries spaCy, NumPy, Pandas, and Matplotlib.pyplot. Ensure you install Python on your system before executing these commands. Once the installations are complete, you can import and use NumPy, Pandas, and Matplotlib.pyplot in your Python programs. Use the following commands in your command prompt/ terminal for:
 1. Installing NumPy:
    pip install numpy
