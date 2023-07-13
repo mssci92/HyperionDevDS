@@ -47,9 +47,9 @@ I have compiled a diverse collection of projects that I have completed while und
    pip install matplotlib
 
 4. Instally spaCy:
-   pip install spacy
+   pip install spacy               
    To download and install a specific language model for spaCy, you can use the following command:
-   python -m spacy download <language_model>
+   python -m spacy download <language_model>        
    Replace <language_model> with the name of the language model you want to install. For example, to install the English language model, you would use:
    python -m spacy download en
 2. The Dataset program requires installing the text file "balance.txt" to function correctly. Please ensure you have downloaded the "balance.txt" file and placed it in the same directory as your "Datasets Compulsory Task.ipynb" file.
