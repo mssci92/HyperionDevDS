@@ -52,10 +52,10 @@ I have compiled a diverse collection of projects that I have completed while und
    python -m spacy download <language_model>        
    Replace <language_model> with the name of the language model you want to install. For example, to install the English language model, you would use:
    python -m spacy download en
-2. The Dataset program requires installing the text file "balance.txt" to function correctly. Please ensure you have downloaded the "balance.txt" file and placed it in the same directory as your "Datasets Compulsory Task.ipynb" file.
-3. The Report program requires installing the text file "balance.txt" to function correctly. Please ensure you have downloaded the "balance.txt" file and placed it in the same directory as your "Report.ipynb" file
-4. The Similar Linear Regression program requires installing the comma-separated values file "insurance.cvs" to function correctly. Please ensure you have downloaded the "insurance.csv" file and placed it in the same directory as your "Simple+linear+regression+insurance.ipynb" file.
-5. The Semantic Similarity program requires installing the text file "movies.txt" to function correctly. Please ensure you have downloaded the "movies.txt" file and placed it in the same directory as your "watch_next.py" file.
+2. The Dataset program requires installing the Text file "balance.txt" to function correctly. Please ensure you have downloaded the "balance.txt" file and placed it in the same directory as your "Datasets Compulsory Task.ipynb" file.
+3. The Report program requires installing the Text file "balance.txt" to function correctly. Please ensure you have downloaded the "balance.txt" file and placed it in the same directory as your "Report.ipynb" file
+4. The Similar Linear Regression program requires installing the CVS file "insurance.cvs" to function correctly. Please ensure you have downloaded the "insurance.csv" file and placed it in the same directory as your "Simple+linear+regression+insurance.ipynb" file.
+5. The Semantic Similarity program requires installing the Text file "movies.txt" to function correctly. Please ensure you have downloaded the "movies.txt" file and placed it in the same directory as your "watch_next.py" file.
 
 ### Usage: 
 1. The Finance program is a calculator which a user can use to calculate bonds or investments in a house.
