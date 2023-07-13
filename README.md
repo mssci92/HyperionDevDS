@@ -22,7 +22,8 @@ I have compiled a diverse collection of projects that I have completed while und
 10. Garden words: https://github.com/mssci92/finalCapstone/blob/main/garden.py
 12. NLP 1:  https://github.com/mssci92/finalCapstone/blob/main/nlp_1.pdf
 13. NLP 2:  https://github.com/mssci92/finalCapstone/blob/main/nlp_2.pdf
-14. Semantic Similarity: https://github.com/mssci92/finalCapstone/blob/main/watch_next.py https://github.com/mssci92/finalCapstone/blob/main/movies.txt
+14. Semantic Similarity: https://github.com/mssci92/finalCapstone/blob/main/watch_next.py           
+    Text file: https://github.com/mssci92/finalCapstone/blob/main/movies.txt
 
 
 ### Installation: To run this project locally, follow these steps:
